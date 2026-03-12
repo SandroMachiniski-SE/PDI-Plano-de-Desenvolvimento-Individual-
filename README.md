@@ -1,5 +1,3 @@
-# PDI-Plano-de-Desenvolvimento-Individual-
-Desenvolvimento pessoal a longo prazo
 # Plano de Desenvolvimento Individual (PDI)  
 Disciplina: Algoritmos Avançados  
 Data de conclusão: 16 de março de 2026
