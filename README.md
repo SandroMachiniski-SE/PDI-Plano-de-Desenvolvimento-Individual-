@@ -66,4 +66,4 @@ Minha motivação nesta disciplina é aprofundar meu raciocínio lógico e minha
 ## Objetivos profissionais 
 - **Iniciar a migração da área de trabalho atual,  para começar a mirar horizontes em tecnologia.
 - **Objetivo de estar trabalhando em tempo integral na área de engenharia de software, de preferencia para uma vaga extrangeira.
-- 
+  
