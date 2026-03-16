@@ -3,11 +3,11 @@ Disciplina: Algoritmos Avançados
 Data de conclusão: 16 de março de 2026
 
 ## Objetivo do semestre
-Minha motivação nesta disciplina é aprofundar meu raciocínio lógico e minha capacidade de resolver problemas complexos de forma eficiente. Quero dominar técnicas avançadas de algoritmos, especialmente programação dinâmica e grafos, pois são fundamentais tanto para competições de programação quanto para aplicações práticas em ciência de dados e desenvolvimento de software. Esse domínio se conecta diretamente ao meu futuro acadêmico e profissional, já que pretendo atuar em áreas que exigem soluções otimizadas e escaláveis.
+Minha motivação nesta disciplina é aprofundar meu raciocínio lógico e minha capacidade de resolver problemas complexos de forma eficiente. Quero dominar técnicas avançadas de algoritmos, especialmente programação dinâmica e grafos, pois são fundamentais tanto para competições de programação quanto para aplicações práticas em ciência de dados e desenvolvimento de software. Esse domínio se conecta diretamente ao meu futuro acadêmico e profissional, já que pretendo atuar em áreas que exigem soluções otimizadas e escaláveis, tenho grande interesse em trabalhar para o exterior, por tanto é melhor correr atrás de conhecimento aqui antes de realmente precisar em outra limgua.
 
 ## Diagnóstico inicial
 ### Análise de complexidade
-- **O que já sei:** calcular complexidade de algoritmos simples (O(n), O(log n), O(n²)).  
+- **O que já sei:** Programação básica, por não estar atuando na área, tenho pouco treino com programação além doque se vê na faculdade.  
 - **Dificuldade:** aplicar análise em algoritmos mais complexos ou híbridos.
 
 ### Divisão e conquista
@@ -19,7 +19,7 @@ Minha motivação nesta disciplina é aprofundar meu raciocínio lógico e minha
 - **Dificuldade:** lidar com casos de recursão múltipla e otimização de chamadas.
 
 ### Programação dinâmica
-- **O que já sei:** resolver problemas simples como Fibonacci e mochila 0/1.  
+- **O que já sei:** resolver problemas simples como Fibonacci.  
 - **Dificuldade:** abstrair estados e transições em problemas mais complexos.
 
 ### Estruturas de dados
