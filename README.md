@@ -63,4 +63,7 @@ Minha motivação nesta disciplina é aprofundar meu raciocínio lógico e minha
 - **Momentos de apoio:** quando encontrar bloqueios em problemas ou precisar de explicações alternativas.  
 - **Limites:** não usar para resolver listas automaticamente; sempre tentar primeiro sozinho e usar IA apenas como guia ou feedback.
 
----
+## Objetivos profissionais 
+- **Iniciar a migração da área de trabalho atual,  para começar a mirar horizontes em tecnologia.
+- **Objetivo de estar trabalhando em tempo integral na área de engenharia de software, de preferencia para uma vaga extrangeira.
+- 
